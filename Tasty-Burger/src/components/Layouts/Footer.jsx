@@ -55,8 +55,8 @@ const Footer = () => {
                 <h5>Order Now</h5>
                 <p>Quaerat neque purus ipsum</p>
                 <p>
-                  <Link to="tel:9998887777" className="calling">
-                    999-888-7777
+                  <Link to="tel:01782197533" className="calling">
+                    01782-197533
                   </Link>
                 </p>
               </div>
